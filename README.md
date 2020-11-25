@@ -161,5 +161,3 @@ _TODO: Answer the following questions to fill in the blanks:_
 - The `.yml` file is the playbook file _Which file is the playbook? Where do you copy it?_
 - By updating the `hosts` section of the playbook, you change what machiens are targeted when running the playbook _Which file do you update to make Ansible run the playbook on a specific machine? How do I specify which machine to install the ELK server on versus which to install Filebeat on?_
 - Navigate to `http://<public IP>:5601/app/kibana#/home` in-order to see of the ELK server is up and running 
-
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
